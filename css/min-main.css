@@ -1,0 +1,91 @@
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1366px) {
+
+}
+
+@media (min-width: 1440px) {
+
+}
+
+@media (min-width: 1920px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media (max-width: 1199px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+    #submenu-firms {
+        padding-top: 130px;
+        padding-bottom: 0px;
+    }
+
+    .submenu-firms-lista li a {
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .pre-footer .pre-footer-inner .pre-footer-list button {
+        padding: 10px 35px;
+    }
+}
+
+@media (min-width: 768px) {
+    #submenu-firms-small {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    #firms {
+        padding-top: 65px;
+    }
+
+    #respond form textarea {
+        width: 100% !important;
+    }
+
+    #submenu-firms {
+        display: none;
+    }
+
+    .pre-footer .pre-footer-inner {
+        text-align: center;
+    }
+
+    .pre-footer hr {
+        margin: auto;
+    }
+
+}
+
+@media (max-width: 575px) {
+    .header_title {
+        padding-top: 0px;
+    }
+
+    .header_main {
+        padding-top: 5rem;
+    }
+
+    #myBtn {
+        display: none;
+    }
+
+    .archive #search {
+        padding-top: 50px;
+    }
+}
